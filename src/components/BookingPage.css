@@ -1,0 +1,43 @@
+.maximum_seat {
+  color: red;
+  font-family: Roboto;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.product {
+  display: inline-block;
+  width: 16%;
+  height: 50px;
+  border: 1px solid gray;
+  font-size: 20px;
+  box-shadow: large;
+  margin: 10px;
+}
+
+.seat-layout {
+  width: 70%;
+}
+
+.seat-row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 64px;
+  margin-bottom: 12px;
+}
+
+.seat {
+  border: 1px solid black;
+}
+
+.seat.occupied {
+  background-color: #afd9af;
+}

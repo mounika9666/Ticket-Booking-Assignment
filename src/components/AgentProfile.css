@@ -1,0 +1,50 @@
+.formEl {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+  }
+  
+  .heading {
+    background-color: white;
+    display: inline-block;
+    margin-bottom: 0%;
+    font-size: 22px;
+    color: black;
+    padding-top: 10px;
+    padding-left: 60px;
+  }
+  
+  .messages {
+    font-family: Roboto;
+    font-size: 20px;
+  }
+  
+  .label {
+    font-family: Roboto;
+    font-size: 20px;
+    padding-right: 10px;
+    margin: 5px;
+  }
+  
+  .label1 {
+    margin-right: 34px;
+  }
+  
+  .input {
+    width: 200px;
+  }
+  
+  .buttonEle {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 60px;
+  }
+  
