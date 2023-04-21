@@ -1,7 +1,7 @@
 # Ticket-Booking-Assignment
 
 
-This is a web application of “Train Ticket Reservation System”, in which front end (client side) is developed using React JS, HTML, CSS.
+This is a web application of “Train Ticket Reservation System”, in which front end (client side) is developed using ReactJS, HTML, CSS.
 
 Application is divided into two categories, one is super-agent and the other is agent. 
 
